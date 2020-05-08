@@ -90,5 +90,6 @@
     <Build Include="dbo\Stored Procedures\usp_calculateResourceLoadForProject_Rishi.sql" />
     <Build Include="dbo\Stored Procedures\usp_calculateResourceLoadForTask.sql" />
     <Build Include="dbo\Stored Procedures\usp_calculateResourceLoadForProject.sql" />
+    <Build Include="dbo\Tables\TestTbl.sql" />
   </ItemGroup>
 </Project>
