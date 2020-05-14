@@ -63,6 +63,7 @@
     <Folder Include="dbo\Tables\" />
     <Folder Include="dbo\Functions\" />
     <Folder Include="dbo\Stored Procedures\" />
+    <Folder Include="dbo\Scripts" />
   </ItemGroup>
   <ItemGroup>
     <Build Include="dbo\Tables\Assignment_Information.sql" />
@@ -91,5 +92,6 @@
     <Build Include="dbo\Stored Procedures\usp_calculateResourceLoadForTask.sql" />
     <Build Include="dbo\Stored Procedures\usp_calculateResourceLoadForProject.sql" />
     <Build Include="dbo\Tables\TestTbl.sql" />
+    <None Include="dbo\Scripts\CreateDatabase.sql" />
   </ItemGroup>
 </Project>
